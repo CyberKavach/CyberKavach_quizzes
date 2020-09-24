@@ -65,7 +65,7 @@
                     </div>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="News.php" style="font-size:19px;padding: 15px 15px;color:white;font-family: Raleway">Latest News</a>
+                    <a class="nav-link" href="News.php" style="font-size:19px;padding: 15px 15px;color:white;font-family: Raleway">Cyber News</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="About.php" style="font-size:19px;padding: 15px 15px;color:white;font-family: Raleway">About us</a>
@@ -260,7 +260,7 @@
                         </li>
                         <li>
                             <a class="an" href="News.php"
-                                style="color:blue">Latest-News</a>
+                                style="color:blue">Cyber-News</a>
                         </li>
                         <li>
                             <a class="an" href="Securify.php"
