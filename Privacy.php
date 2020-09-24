@@ -172,7 +172,7 @@ if ($ee == ""){
                     </div>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/News.php" style="font-size:21px;padding: 15px 15px;">Latest News</a>
+                    <a class="nav-link" href="/News.php" style="font-size:21px;padding: 15px 15px;">Cyber News</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="/Upholders.php" style="font-size:21px;padding: 15px 15px;">Cyber Upholders</a>
@@ -642,7 +642,7 @@ echo "<tr>","<td>",$i,"</td>","<td>",$row["NAME"],"</td>","<td>",$row["PJPOINTS"
                         </li>
                         <li>
                             <a class="an" href="/News.php"
-                                style="color:blue">Latest-News</a>
+                                style="color:blue">Cyber-News</a>
                         </li>
                         <li>
                             <a class="an" href="/Securify.php"
